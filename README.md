@@ -19,3 +19,9 @@ docker-compose build
 docker-compose up
 ```
 The application expose a port **8080**
+
+
+## Public URL
+
+https://ff-apalabrados.herokuapp.com/classify?text=1000
+https://ff-apalabrados.herokuapp.com/docs
