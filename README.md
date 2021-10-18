@@ -23,5 +23,11 @@ The application expose a port **8080**
 
 ## Public URL
 
+### Backend
+
 1. https://ff-apalabrados.herokuapp.com/classify?text=1000
 2. https://ff-apalabrados.herokuapp.com/docs
+
+### Frontend
+
+1. https://ff-apalabrados.netlify.app/
