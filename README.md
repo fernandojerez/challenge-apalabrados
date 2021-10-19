@@ -2,6 +2,14 @@
 
 ![](diagram.png)
 
+## Flow Diagram
+
+### Use case: Input Classifier
+
+> Get a text an classify it into three categories: numbers (integers only), text (alpha and digits only) or character (not alpha and neither digits)
+
+![](flow.png)
+
 ## Endpoints
 
 1. **/docs** show documentation of the service
